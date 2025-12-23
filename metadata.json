@@ -1,0 +1,5 @@
+{
+  "name": "ShopVision AI",
+  "description": "An AI-powered video shopping assistant that detects products in real-time when paused, providing instant links to e-commerce platforms.",
+  "requestFramePermissions": []
+}
